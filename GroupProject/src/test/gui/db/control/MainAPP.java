@@ -19,8 +19,14 @@ public class MainAPP extends Application {
 	//Tina changed to test Carl's version
 	//carl changed
 	//changed again 18.29
+<<<<<<< HEAD
 	 
 
+=======
+	
+//tina 18.39
+	//18.41
+>>>>>>> branch 'master' of https://github.com/CCTPOS/Project.git
 	@Override
 	public void start(Stage primaryStage)throws Exception {
 		
